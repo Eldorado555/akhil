@@ -9,7 +9,7 @@ function App() {
         <p>
           Akhil
         </p>
-        <a href='https://www.instagram.com/akkineniakhil/?hl=en'>Follow me on instagram</a>
+        <a href='https://www.instagram.com/_akhi_.l/'>Follow me on instagram</a>
       </header>
     </div>
   );
